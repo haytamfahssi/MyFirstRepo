@@ -1,0 +1,4 @@
+What I Learned:
+- Git commands and workflows
+- GitHub repository management
+- Collaboration techniques
